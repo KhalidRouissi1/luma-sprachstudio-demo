@@ -1,0 +1,9 @@
+{
+  "name": "luma-sprachstudio-demo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "check": "node --check dist/app.js"
+  }
+}
